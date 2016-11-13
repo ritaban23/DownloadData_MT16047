@@ -1,0 +1,10 @@
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\DownloadData\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\rivu\downloaddata\R$string$override.class
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\DownloadData\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\rivu\downloaddata\R$style$override.class
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\DownloadData\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\rivu\downloaddata\R$id$override.class
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\DownloadData\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$drawable$override.class
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\DownloadData\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\rivu\downloaddata\R$integer$override.class
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\DownloadData\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\rivu\downloaddata\R$drawable$override.class
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\DownloadData\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\DownloadData\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\rivu\downloaddata\R$layout$override.class
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\DownloadData\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\rivu\downloaddata\R$styleable$override.class
+CHANGED,C:\Users\Rivu\AndroidStudioProjects\DownloadData\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\rivu\downloaddata\R$mipmap$override.class
